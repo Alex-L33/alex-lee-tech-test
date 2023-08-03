@@ -15,3 +15,11 @@ npm run dev
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 Any issues then please contact me at alexplee1@gmail.com
+
+## Tools used
+
+React + Next 13 + TypeScript
+
+Tailwind CSS
+
+Shadcn component library
