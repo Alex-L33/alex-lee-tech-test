@@ -9,9 +9,9 @@ npm install
 Second, run the development server:
 
 npm run dev
-# or
+or
 yarn dev
-# or
+or
 pnpm dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
